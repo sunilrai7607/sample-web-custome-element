@@ -8670,6 +8670,11 @@ react-scripts@3.4.1:
   optionalDependencies:
     fsevents "2.1.2"
 
+react-to-webcomponent@^1.4.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/react-to-webcomponent/-/react-to-webcomponent-1.4.0.tgz#9fc138bcfa3c4ed5746e8e42dfb98de479565da8"
+  integrity sha512-Q+vqBnNWX0nPHXmnoTD9bnVRZ9aSSNorRt++1nCR5XMCPk2vKlDK7HRK593jmWAgJ19sssY8NnOpxjrvH7GfKg==
+
 react@^16.13.1:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react/-/react-16.13.1.tgz#2e818822f1a9743122c063d6410d85c1e3afe48e"
